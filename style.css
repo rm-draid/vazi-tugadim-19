@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contact {
+  background: #f8d57e;
+}
+
+.contact_new {
+  background: #dfe5fe;
+}
